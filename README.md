@@ -1,4 +1,5 @@
 # 📖 AIStoryWriter-GUI – Tools for Story Generation & Visualization
+**HINT:** Some texts are in german, feel free to translate them.
 
 This project consists of two main parts:
 1. **Story Viewer** – to display AI-generated stories in a book-like format.
